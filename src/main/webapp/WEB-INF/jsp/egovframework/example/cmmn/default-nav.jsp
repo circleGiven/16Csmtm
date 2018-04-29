@@ -49,7 +49,7 @@
 					<li><a href="notice.do">Community<span class="sub">커 뮤 니 티</span></a>
 						<ul>
 							
-							<li><a href="notice.do">공지사항</a></li>
+							<li><a href="notice.do">공지사항임</a></li>
 							<li><a href="freeboard.do">자유게시판</a></li>
 							<li><a href="gatherBoardHome.do">모임 게시판</a></li>
 							<li><a href = "use.do">중고장터</a></li>
