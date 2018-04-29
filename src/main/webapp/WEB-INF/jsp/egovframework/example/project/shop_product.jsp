@@ -70,9 +70,7 @@
 										</div>
 										<div class="variations_button">
 											<a href = "paymentInit.do"> 
-												<button class="tbutton medium"> 
-													<span>구매하기</span>
-												</button>
+											<a href="paymentInit.do" class="tbutton medium"><span>구매하기</span></a>
 											</a>
 										</div>
 									</div>
